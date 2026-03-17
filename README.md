@@ -31,4 +31,5 @@ Year-over-Year performance comparison.
 ## 👤 Author
 **Muhammad Zain Naseem**
 📍 Lahore, Pakistan
-🔗 [LinkedIn Profile](www.linkedin.com/in/muhammad-zain-naseem-a4b6ab27a)
+🔗 [LinkedIn Profile]
+(www.linkedin.com/in/muhammad-zain-naseem-a4b6ab27a)
